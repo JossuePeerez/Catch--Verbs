@@ -12,8 +12,9 @@ El juego consiste en que se mueva al personaje por medio de las teclas.
 Como vaya avanzando en los niveles, el personaje ira cambiando de forma y tendra nuevas caracteristicas.
 
 ejemplos:
-run <- palabra correcta
-rin <- palabra incorrecta
+*run <- palabra correcta
+
+*rin <- palabra incorrecta
 
 EL juego va cambiando de acuerdo al nivel en el que se encuentre:
 
@@ -38,4 +39,6 @@ El villano nube tendra la posibilidad de lanzar truenos y dañar en puntaje al p
 
 En el tercer nivel pou tiene la habilidad de moverse por todo el escenario con las teclas de direccion.
 Tambien puede lanzar pequeños pou en forma de tiros para acabar con las burbujas que lanza Gary el villano del ultimo nivel.
+
+
  

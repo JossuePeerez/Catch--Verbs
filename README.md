@@ -22,6 +22,22 @@ EL juego va cambiando de acuerdo al nivel en el que se encuentre:
 ![En contruccion](https://lh3.googleusercontent.com/-mnNqdKDnZvw/WSx9K4jdYQI/AAAAAAAAAuA/JzTvtadBHYoaL0RGVqUphJgUg2ajCGNfQCL0B/w499-d-h600-p-rw/Captura%2Bde%2Bpantalla%2B2017-05-29%2B14.51.54.png)
 
 En el primer nivel pou solo puede moverse con las teclas <-->
-El villano de tipo 1 tiene la oportunidad de lanzar pequeñas bolas de fuego que son las que dañan a
+El villano vikingo tiene la oportunidad de lanzar pequeñas bolas de fuego que son las que dañan a
 pou de forma parcial si lo tocan.
+
+### Segundo nivel
+
+![En contruccion](https://lh3.googleusercontent.com/-FRwfwNECB84/WSx-ndyK48I/AAAAAAAAAuo/UOcbWX4z5mAaloiLkvwlI8p3i50AB4jiQCL0B/w498-d-h598-p-rw/Captura%2Bde%2Bpantalla%2B2017-05-29%2B14.53.47.png)
+
+En el segundo nivel tiene pou puede moverse por el escenario con las cuatro teclas de direccion.
+El villano nube tendra la posibilidad de lanzar truenos y dañar en puntaje al personaje.
+
+### Tercer nivel
+
+![En contruccion](https://lh3.googleusercontent.com/-8KmcdrAmG18/WSx_q7Yo1fI/AAAAAAAAAvM/hYCsXMlWUOkEdNnMePkhj7eiSJPbI-mlgCL0B/w495-d-h599-p-rw/Captura%2Bde%2Bpantalla%2B2017-05-29%2B14.55.12%25282%2529.png)
+
+En el tercer nivel pou tiene la habilidad de moverse por todo el escenario con las teclas de direccion.
+Tambien puede lanzar pequeños pou en forma de tiros para acabar con las burbujas que lanza Gary el villano del ultimo nivel.
+ 
+
 

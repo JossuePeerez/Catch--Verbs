@@ -1,4 +1,4 @@
-![En contruccion](https://lh3.googleusercontent.com/-wzFsqrsP8D8/WSxzzXMPoJI/AAAAAAAAAsU/cWUtp32q-NwYAlcGJyM5izeiHlVpskpJgCL0B/w213-d-h212-p-rw/corioliseffectdetail.jpg)
+![En contruccion](https://lh3.googleusercontent.com/-uapAhPHZgSQ/WSx3LmFB_WI/AAAAAAAAAtE/Pvb0yz8N5OYsMW9xNHEzC0tKCBS96DWIgCL0B/w530-d-h334-p-rw/camiseta-pou-custom-logo-600x378.jpg)
 
 ### Catch-Verbs
 

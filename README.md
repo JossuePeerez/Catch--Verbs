@@ -46,10 +46,9 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
 ### clases principales y sus caracteristicas
 
 1. Clase 1 Menu
-
  *la clase menu es la encargada de mandar a llamar a todos los tipos de mundo que hay: ayuda, inicio, records, creditos.
- 
  *en esta clase se redirecciona al primer nivel donde manda llamar a los diferentes mundos.
+ 
 2. Clase 2 Nivel
  *la clase nivel administra los atributos de los niveles.
  *se encarga de guardar el puntaje de cada nivel.

@@ -13,9 +13,9 @@ Como vaya avanzando en los niveles, el personaje ira cambiando de forma y tendra
 
 ejemplos:
 
-*run <- palabra correcta
+ *run <- palabra correcta
 
-*rin <- palabra incorrecta
+ *rin <- palabra incorrecta
 
 EL juego va cambiando de acuerdo al nivel en el que se encuentre:
 
@@ -44,6 +44,12 @@ En el tercer nivel se tiene como limite de tiempo acabar antes de 1 minuto. El j
 de acumular mas puntos mas rapidamente si acaba con las burbujas.
 
 ### clases principales y sus caracteristicas
+
+1. Clase 1 Menu
+ *
+ *
+
+### 
 
 
  

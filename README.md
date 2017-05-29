@@ -13,9 +13,9 @@ Como vaya avanzando en los niveles, el personaje ira cambiando de forma y tendra
 
 ejemplos:
 
-  *run <- palabra correcta
+  * run <- palabra correcta
   
-  *rin <- palabra incorrecta
+  * rin <- palabra incorrecta
 
 EL juego va cambiando de acuerdo al nivel en el que se encuentre:
 
@@ -47,44 +47,55 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
 
 1. Clase 1 Menu
  * la clase menu es la encargada de mandar a llamar a todos los tipos de mundo que hay: ayuda, inicio, records, creditos.
- *en esta clase se redirecciona al primer nivel donde manda llamar a los diferentes mundos.
+ * en esta clase se redirecciona al primer nivel donde manda llamar a los diferentes mundos.
  
 2. Clase 2 Nivel
- *la clase nivel administra los atributos de los niveles.
- *se encarga de guardar el puntaje de cada nivel.
+ * la clase nivel administra los atributos de los niveles.
+ * se encarga de guardar el puntaje de cada nivel.
+ 
 3. Clase 3 Nivel 1
- *el nivel 1 crea los personajes del nivel al que corresponde.
- *se encarga de crear las palabras que se van a necesitar para empezar el nivel.
+ * el nivel 1 crea los personajes del nivel al que corresponde.
+ * se encarga de crear las palabras que se van a necesitar para empezar el nivel.
+ 
 4. Clase 4 Nivel 2
- *manda llamar a los personajes con sus nuevas caracteristicas.
- *carga las palabras nuevas y las inserta al mundo.
+ * manda llamar a los personajes con sus nuevas caracteristicas.
+ * carga las palabras nuevas y las inserta al mundo.
+
 5. Clase 5 Nivel 3
- *crea los personajes nuevos para este nivel.
- *carga las palabras reales = correctas y fake= incorrectas.
+ * crea los personajes nuevos para este nivel.
+ * carga las palabras reales = correctas y fake= incorrectas.
+
 6. Clase 6 villano 1
- *el villano de tipo uno es una clase que crea al personaje y le brinda sus caracteristicas.
- *el villano de tipo uno hereda a bola de fuego que sirve como proyectil para bajar puntos al heroe.
+ * el villano de tipo uno es una clase que crea al personaje y le brinda sus caracteristicas.
+ * el villano de tipo uno hereda a bola de fuego que sirve como proyectil para bajar puntos al heroe.
+
 7. Clase 7 villano 2
- *el villano de tipo dos tiene la caracteristica de moverse por el escenario.
- *el villano hereda a la clase trueno la cual sirve como proyectil para 
+ * el villano de tipo dos tiene la caracteristica de moverse por el escenario.
+ * el villano hereda a la clase trueno la cual sirve como proyectil para 
+
 8. Clase 8 Gary
- *el villano de tipo 2 es gary de la caricatura bob esponja. La cual es creada como imagen gif importada de la clase gifimage.
- *la clase hereda a burbuja que ademas de servir como proyectil esta puede continuar en el escenario a comparacion de los demas tipos de proyectil
+ * el villano de tipo 2 es gary de la caricatura bob esponja. La cual es creada como imagen gif importada de la clase gifimage.
+ * la clase hereda a burbuja que ademas de servir como proyectil esta puede continuar en el escenario a comparacion de los demas tipos de proyectil
+
 9. Clase 9 popu 
- *la clase popu es de tipo heroe 1
- *
+ * la clase popu es de tipo heroe 1 y su principal caracteristica es moverse de un lado a otro 
+ * su principal caracteristica es la de comer verbos y sumar puntaje por ello.
+
 10. Clase 10 Popu 2
- *
- *
+ * la clase popu2 es de tipo heroe 2, este tiene como habilidar moverse por todo el escenario para esquivar de forma mas facil los proyectiles que caen generados por el villano de tipo 2
+ * este puede comer interserctando con los demas objetos y eso facilita comer muchos mas verbos que en el nivel 1
+
 11. Clase 11 Popu 3 
- *
- *
+ * la clase popu3 es de tipo heroe 3 el cual tiene la habilidad de moverse por todo el escenario y comer mas facil.
+ * la caracteristica que tiene que supera a los demas heroes es que este puede defenderse con tiros en forma de pequeños pou, los cuales pueden hacer desaparecer a las burbujas creadas por el villano numero 3 que es gary.
+
 12. Clase 12 Real
- *
- *
+ * de las principales clases del proyecto, ya que es la encargada de instanciar los objetos de tipo palabra incorrecta
+ * convierte el texto que le llega a objeto y le da un fondo y color.
+ 
 13. Clase 13 Fake
- *
- *
+ * de las principales clases del proyecto, ya que es la encargada de instanciar los objetos de tipo palabra correcta
+ * convierte el texto que le llega a objeto y le da un fondo y color.
 
 ### Autores del proyecto
 1. Morales Zamora Cristhian Saray(SarayMorales)

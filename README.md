@@ -96,7 +96,10 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
 13. Clase 13 Fake
  * de las principales clases del proyecto, ya que es la encargada de instanciar los objetos de tipo palabra correcta
  * convierte el texto que le llega a objeto y le da un fondo y color.
-
+ 
+### Profesor
+ ING. RAMIREZ GAMEZ CESAR AUGUSTO
+ 
 ### Autores del proyecto
 1. Morales Zamora Cristhian Saray(SarayMorales)
 2. Torres Perez Josúe Andres(JossuePeerez)

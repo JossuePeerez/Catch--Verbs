@@ -47,6 +47,7 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
 
 1. Clase 1 Menu
  *la clase menu es la encargada de mandar a llamar a todos los tipos de mundo que hay: ayuda, inicio, records, creditos.
+ 
  *en esta clase se redirecciona al primer nivel donde manda llamar a los diferentes mundos.
 2. Clase 2 Nivel
  *la clase nivel administra los atributos de los niveles.
@@ -84,10 +85,6 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
 13. Clase 13 Fake
  *
  *
-### Diagrama de clases 
-https://drive.google.com/open?id=0B6YxNOm5gLK2VkZKVk5Pd0Y4M0U
-
-https://drive.google.com/open?id=0B6YxNOm5gLK2LWVBeGZ6dE9Gblk
 
 ### Autores del proyecto
 1. Morales Zamora Cristhian Saray(SarayMorales)
@@ -104,6 +101,11 @@ Programacion Orientado a objetos
 Universidad Autónoma De San Luis Potosi. 
 
 Facultad De Ingeniería.
+
+### Diagrama de clases 
+https://drive.google.com/open?id=0B6YxNOm5gLK2VkZKVk5Pd0Y4M0U
+
+https://drive.google.com/open?id=0B6YxNOm5gLK2LWVBeGZ6dE9Gblk
 
 ### Download proyect 
 https://drive.google.com/open?id=0B6YxNOm5gLK2XzNaOHgwWk14TTg

@@ -12,6 +12,7 @@ El juego consiste en que se mueva al personaje por medio de las teclas.
 Como vaya avanzando en los niveles, el personaje ira cambiando de forma y tendra nuevas caracteristicas.
 
 ejemplos:
+
 *run <- palabra correcta
 
 *rin <- palabra incorrecta
@@ -39,6 +40,10 @@ El villano nube tendra la posibilidad de lanzar truenos y dañar en puntaje al p
 
 En el tercer nivel pou tiene la habilidad de moverse por todo el escenario con las teclas de direccion.
 Tambien puede lanzar pequeños pou en forma de tiros para acabar con las burbujas que lanza Gary el villano del ultimo nivel.
+En el tercer nivel se tiene como limite de tiempo acabar antes de 1 minuto. El jugador tiene la oportunidad 
+de acumular mas puntos mas rapidamente si acaba con las burbujas.
+
+### clases principales y sus caracteristicas
 
 
  

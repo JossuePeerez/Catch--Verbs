@@ -3,5 +3,6 @@
 ### Catch-Verbs
 
 Catch verbs es la modificación del clásico juego de POU en el que en lugar de recoger comida este recogerá verbos.
-link del video 
-https://www.facebook.com/
+![En contruccion](https://vignette1.wikia.nocookie.net/pou-comunidad/images/8/8d/Pou.png/revision/latest?cb=20131229201415&path-prefix=es)
+
+

@@ -98,6 +98,7 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
  * convierte el texto que le llega a objeto y le da un fondo y color.
  
 ### Profesor
+
  ING. RAMIREZ GAMEZ CESAR AUGUSTO
  
 ### Autores del proyecto

@@ -85,6 +85,7 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
  *
  *
 ### Diagrama de clases 
+https://drive.google.com/open?id=0B6YxNOm5gLK2VkZKVk5Pd0Y4M0U
 
 ### Autores del proyecto
 1. Morales Zamora Cristhian Saray(SarayMorales)
@@ -103,11 +104,14 @@ Universidad Autónoma De San Luis Potosi.
 Facultad De Ingeniería.
 
 ### Download proyect 
+https://drive.google.com/open?id=0B6YxNOm5gLK2XzNaOHgwWk14TTg
+https://www.dropbox.com/home/catch-verbs?preview=catch-verbs.zip
 
 ### Ver en GreenFoot
 http://www.greenfoot.org/scenarios/19478
 
 ### Ver video
+https://www.youtube.com/watch?v=W4Ym_K0leyw
 
 
  

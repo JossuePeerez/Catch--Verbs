@@ -18,7 +18,8 @@ EL juego va cambiando de acuerdo al nivel en el que se encuentre:
 
 ### Primer nivel 
 
-
-![En contruccion](https://vignette1.wikia.nocookie.net/pou-comunidad/images/8/8d/Pou.png/revision/latest?cb=20131229201415&path-prefix=es)
-
+![En contruccion](https://lh3.googleusercontent.com/-mnNqdKDnZvw/WSx9K4jdYQI/AAAAAAAAAuA/JzTvtadBHYoaL0RGVqUphJgUg2ajCGNfQCL0B/w499-d-h600-p-rw/Captura%2Bde%2Bpantalla%2B2017-05-29%2B14.51.54.png)
+En el primer nivel pou solo puede moverse con las teclas <-->
+El villano de tipo 1 tiene la oportunidad de lanzar pequeñas bolas de fuego que son las que dañan a
+pou de forma parcial si lo tocan.
 

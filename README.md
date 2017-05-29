@@ -84,7 +84,30 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
 13. Clase 13 Fake
  *
  *
-### 
+### Diagrama de clases 
+
+### Autores del proyecto
+1. Morales Zamora Cristhian Saray(SarayMorales)
+2. Torres Perez Josúe Andres(JossuePeerez)
+
+### Materia
+
+Programacion Orientado a objetos
+
+### Semestre
+- 2016-2017 /II
+
+### Institucion
+Universidad Autónoma De San Luis Potosi. 
+
+Facultad De Ingeniería.
+
+### Download proyect 
+
+### Ver en GreenFoot
+http://www.greenfoot.org/scenarios/19478
+
+### Ver video
 
 
  

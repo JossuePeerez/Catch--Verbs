@@ -13,9 +13,8 @@ Como vaya avanzando en los niveles, el personaje ira cambiando de forma y tendra
 
 ejemplos:
 
- *run <- palabra correcta
-
- *rin <- palabra incorrecta
+  *run <- palabra correcta
+  *rin <- palabra incorrecta
 
 EL juego va cambiando de acuerdo al nivel en el que se encuentre:
 

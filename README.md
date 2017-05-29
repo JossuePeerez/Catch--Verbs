@@ -14,6 +14,7 @@ Como vaya avanzando en los niveles, el personaje ira cambiando de forma y tendra
 ejemplos:
 
   *run <- palabra correcta
+  
   *rin <- palabra incorrecta
 
 EL juego va cambiando de acuerdo al nivel en el que se encuentre:
@@ -47,7 +48,42 @@ de acumular mas puntos mas rapidamente si acaba con las burbujas.
 1. Clase 1 Menu
  *
  *
-
+2. Clase 2 Nivel
+ *
+ *
+3. Clase 3 Nivel 1
+ *
+ *
+4. Clase 4 Nivel 2
+ *
+ *
+5. Clase 5 Nivel 3
+ *
+ *
+6. Clase 6 villano 1
+ *
+ *
+7. Clase 7 villano 2
+ *
+ *
+8. Clase 8 Gary
+ *
+ *
+9. Clase 9 popu 
+ *
+ *
+10. Clase 10 Popu 2
+ *
+ *
+11. Clase 11 Popu 3 
+ *
+ *
+12. Clase 12 Real
+ *
+ *
+13. Clase 13 Fake
+ *
+ *
 ### 
 
 
